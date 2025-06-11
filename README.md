@@ -1,3 +1,3 @@
 click code
-GitHub CLI
-Download ZIP
+click GitHub CLI
+click Download ZIP
